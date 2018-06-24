@@ -45,7 +45,7 @@ end
 ```
 ### 4.Databaseのルール設定
 #### firebaseのプロジェクトのデータベースの、ルールより以下の通りに変更し、公開ボタンをおす．
-<img src="https://github.com/heroccccc/FirebaseiOS/blob/master/images/firebaserurles.png .png" width="200" />
+<img src="https://github.com/heroccccc/FirebaseiOS/blob/master/images/firebaserurles.png" width="200" />
 
 ### 5.iOSアプリの初期設定(AppDelegate.swiftの設定)
 #### AppDelegate.swiftとは[こちらより](https://qiita.com/SoyaTakahashi/items/cc8f48af792c353cd9f3)
@@ -117,5 +117,5 @@ class ViewController: UIViewController {
 ### 2.ビルドして確認
 ---
 ### アプリからdatabaseの変更・更新などをリアルタイムにできる!!!
-<img src="https://github.com/heroccccc/FirebaseiOS/blob/master/images/firebasedarabase.png .png" width="200" />
-<img src="https://github.com/heroccccc/FirebaseiOS/blob/master/images/iosscreenshot.png .png" width="200" />
+<img src="https://github.com/heroccccc/FirebaseiOS/blob/master/images/firebasedarabase.png" width="200" />
+<img src="https://github.com/heroccccc/FirebaseiOS/blob/master/images/iosscreenshot.png" width="200" />
